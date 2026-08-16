@@ -45,4 +45,4 @@ Conformément à la mission **T7** du cahier des charges, aucun paramètre rése
 
 ## 5. Simulation du réseau "Internet" (labo)
 
-Dans la maquette labo, l'ensemble des firewalls communique entre eux sur `vmbr0`, adossé au réseau réel de l'hyperviseur (ex. `192.168.40.0/24`). En production réelle, chaque firewall serait plutôt raccordé à une IP publique fournie par son propre FAI (voir échange précédent sur les IP publiques vs privées).
+Dans la maquette labo, l'ensemble des firewalls communique entre eux sur `vmbr0`, adossé au réseau réel de l'hyperviseur (ex. `192.168.40.0/24`). En production réelle, chaque firewall serait plutôt raccordé à une IP publique fournie par son propre FAI.
