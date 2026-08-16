@@ -14,7 +14,6 @@
 
 - [Contexte du projet](#contexte-du-projet)
 - [Architecture cible](#architecture-cible)
-- [Équipe](#équipe)
 - [Structure du dépôt](#structure-du-dépôt)
 - [Suivi des missions](#suivi-des-missions)
 - [Stack technique](#stack-technique)
@@ -39,15 +38,6 @@ L'ensemble de la maquette est virtualisé sur un unique hyperviseur **Proxmox VE
 ![Schéma d'architecture](screenshots/schema-architecture.png)
 
 Le détail du plan d'adressage et des choix de conception se trouve dans [`docs/architecture/`](docs/architecture/).
-
-## Équipe
-
-| Membre | Rôle principal sur le projet |
-|---|---|
-| [Nom Étudiant A] | Infrastructure virtuelle Proxmox, plateforme cloud de fichiers, PRA |
-| [Nom Étudiant B] | Firewalls, VPN IPsec/L2/nomade |
-| [Nom Étudiant C] | Active Directory, DNS, bureau à distance, supervision |
-| [Nom Étudiant D] | Veille, conseil, R&D (choix cloud, UCaaS, SSO, gestion de crise) |
 
 ## Structure du dépôt
 
