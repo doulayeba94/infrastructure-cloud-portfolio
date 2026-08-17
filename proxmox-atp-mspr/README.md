@@ -45,7 +45,7 @@ Le détail du plan d'adressage et des choix de conception se trouve dans [`docs/
 proxmox-atp-mspr/
 ├── docs/
 │   ├── architecture/       → schémas réseau, plan d'adressage, choix de conception (T1)
-│   ├── planning/           → planning prévisionnel de l'équipe
+│
 │   ├── pra/                → tableau des risques + procédure de déclenchement PRA (C4)
 │   └── conseil/            → livrables C1, C2, C3 (choix cloud, UCaaS, SSO)
 ├── infra/
